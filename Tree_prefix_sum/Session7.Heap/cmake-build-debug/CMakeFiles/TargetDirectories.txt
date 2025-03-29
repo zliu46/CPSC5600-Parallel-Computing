@@ -1,0 +1,3 @@
+/Users/zhouliu/Desktop/CPSC 5600 /hw2/Session7.Heap/cmake-build-debug/CMakeFiles/Session7_Heap.dir
+/Users/zhouliu/Desktop/CPSC 5600 /hw2/Session7.Heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhouliu/Desktop/CPSC 5600 /hw2/Session7.Heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
